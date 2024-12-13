@@ -1,0 +1,58 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "Which place value model represents  63?",
+        "options": [
+          "1.png",
+          "2.png"
+        ],
+        "correct": 1,
+        "explanation": "Find the model that shows 14. This model has 1 ten and 4 ones."
+      },
+      {
+        "questionNo": "Q2",
+        "question": "The given model represents which number?<br><img width='50%' src='./images/1.jpg'>",
+        "options": [
+          "32",
+          "34",
+          "23",
+          "42"
+        ],
+        "correct": 2,
+        "explanation": "Find the model that shows 65. This model has 6 tens and 5 ones."
+      },
+      {
+        "questionNo": "Q3",
+        "question": "Which place value model matches 212?",
+        "options": [
+          "3.png",
+          "4.png"
+        ],
+        "correct": 0,
+        "explanation": "Find the model that shows 87. This model has 8 tens and 7 ones."
+      },
+      {
+        "questionNo": "Q4",
+        "question": " What is the place value of the digit 7 the number 752341?",
+        "options": [
+          "7 thousands",
+          "700 thousands",
+          "7 millions",
+          "70 thousands"
+        ],
+        "correct": 1,
+        "explanation": "Count the tens. There are 9 tens. Count the ones. There are 0 ones."
+      },
+      {
+        "questionNo": "Q5",
+        "question": "What is the place value of the digit 3 in 709351?",
+        "options": [
+          "30 thousands",
+          "3 thousands",
+          "300 thousands",
+          "3 hundreds"
+        ],
+        "correct": 3,
+        "explanation": "Count the thousands. There are 1 thousand. Count the hundreds. There are 3 hundred. Count the tens. There are 2 tens. Count the ones. There are 4 ones.<br><img width='55%' src='./images/3.jpg'>"
+      }
+]
